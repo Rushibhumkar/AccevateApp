@@ -20,7 +20,7 @@ Steps to Run
 
 1. Clone the repository --->>>
   
-git clone <repository-url>
+git clone https://github.com/AnubhaAnu/AccevateApp.git
 cd AccevateApp
 
 
@@ -34,7 +34,7 @@ npm install
 npx react-native start
 
 
-4.Run the app on Android
+4. Run the app on Android
 
 npx react-native run-android
 
